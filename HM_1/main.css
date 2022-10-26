@@ -1,0 +1,45 @@
+.target{
+    width: 500px;
+    height: 500px;
+    background: deepskyblue;
+    display: flex;
+    align-items: center;
+
+}
+.lit{
+    width: 60px;
+    height: 20px;
+    background: darkblue;
+    position: absolute;
+    z-index: 3;
+    top: 25px;
+    border-radius: 7%;
+
+}
+
+.sun{
+    width: 500px;
+    height: 300px;
+    background: blue;
+    position: relative;
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-evenly;
+
+}
+.icon{
+    width: 100px;
+    height: 100px;
+    background: aqua;
+    border-radius: 5%;
+    z-index: 2;
+    position: relative;
+    top: 50px;
+    display: flex;
+}
+
+
+
+
+
+

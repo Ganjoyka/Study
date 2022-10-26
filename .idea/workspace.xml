@@ -2,16 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cedab1f7-f9d4-4ebb-9044-1a5187135aa7" name="Changes" comment="Commit">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HM_1/Homework_1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HM_2/Homework_2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HM_3/Homework_3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HM_4/Homework_4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HM_5/Homework_5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Study.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HM_1/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HM_2/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HM_5/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HM_5/normalize.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HM_1/Homework_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/HM_1/Homework_1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HM_5/Homework_5.html" beforeDir="false" afterPath="$PROJECT_DIR$/HM_5/index1.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,11 +19,15 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2GgeFXJVDSxVhWtdSHrgpICxK3a" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -42,9 +43,19 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/vladm/IdeaProjects/Study/HM_5",
+    "list.type.of.created.stylesheet": "CSS",
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\vladm\IdeaProjects\Study\HM_5" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\vladm\IdeaProjects\Study\HM_5" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -53,8 +64,27 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1666814553793</updated>
-      <workItem from="1666814559774" duration="1499000" />
+      <workItem from="1666814559774" duration="2933000" />
+      <workItem from="1666817809385" duration="2288000" />
+      <workItem from="1666820605300" duration="29000" />
+      <workItem from="1666820700338" duration="1720000" />
+      <workItem from="1666822444321" duration="1030000" />
     </task>
+    <task id="LOCAL-00001" summary="Commit">
+      <created>1666816081324</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1666816081324</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Commit">
+      <created>1666816144010</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1666816144010</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
