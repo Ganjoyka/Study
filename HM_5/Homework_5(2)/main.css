@@ -1,0 +1,30 @@
+.card{
+    display: flex;
+    background: aquamarine;
+    box-sizing: border-box;
+    padding: 30px 100px;
+    /*justify-content: flex-start;*/
+    /*align-items: flex-start;*/
+    /*flex-direction: row;*/
+}
+
+
+.card > p {
+    text-align: justify;
+    box-sizing: border-box;
+    padding-left: 30px;
+    border-left: 2px solid chartreuse;
+}
+ 
+@media screen and (min-width: 0) and (max-width: 972px) {
+    .card{
+        flex-direction: column;
+    }
+    
+}
+.card > p{
+    border-left: none;
+    border-top: 2px solid cornflowerblue;
+    border-left: 0;
+    border-top: 30px;
+}
