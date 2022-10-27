@@ -2,13 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cedab1f7-f9d4-4ebb-9044-1a5187135aa7" name="Changes" comment="Commit">
-      <change afterPath="$PROJECT_DIR$/HM_5/Homework_5(2)/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HM_5/Homework_5(2)/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HM_5/Homework_5(2)/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HM_5/HM2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HM_5/HM2/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HM_5/HM2/media.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HM_5/HomeWork/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HM_5/HomeWork/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HM_5/HomeWork/media.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HM_5/HomeWork/normalize.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HM_5/index1.html" beforeDir="false" afterPath="$PROJECT_DIR$/HM_5/Homework_5(1)/index1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HM_5/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/HM_5/Homework_5(1)/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HM_5/normalize.css" beforeDir="false" afterPath="$PROJECT_DIR$/HM_5/Homework_5(1)/normalize.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HM_5/Homework_5(1)/normalize.css" beforeDir="false" afterPath="$PROJECT_DIR$/HM_5/Homework_5(1)/normalize.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HM_5/Homework_5(2)/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/HM_5/Homework_5(2)/main.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,13 +46,15 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/vladm/IdeaProjects/Study/HM_5/Homework_5(2)",
+    "last_opened_file_path": "C:/Users/vladm/IdeaProjects/Study/HM_5/HomeWork",
     "list.type.of.created.stylesheet": "CSS",
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\vladm\IdeaProjects\Study\HM_5\HomeWork" />
+      <recent name="C:\Users\vladm\IdeaProjects\Study\HM_5\Homework_5(1)" />
       <recent name="C:\Users\vladm\IdeaProjects\Study\HM_5\Homework_5(2)" />
       <recent name="C:\Users\vladm\IdeaProjects\Study\HM_5" />
     </key>
@@ -71,7 +76,9 @@
       <workItem from="1666817809385" duration="2288000" />
       <workItem from="1666820605300" duration="29000" />
       <workItem from="1666820700338" duration="1720000" />
-      <workItem from="1666822444321" duration="3046000" />
+      <workItem from="1666822444321" duration="3196000" />
+      <workItem from="1666883987831" duration="1319000" />
+      <workItem from="1666888131920" duration="11943000" />
     </task>
     <task id="LOCAL-00001" summary="Commit">
       <created>1666816081324</created>
@@ -94,7 +101,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666823560230</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Commit">
+      <created>1666825611990</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1666825611990</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
